@@ -1,0 +1,2 @@
+F:\Android studio\Projects\whetherdata\app\build\intermediates\classes\release
+F:\Android studio\Projects\whetherdata\app\build\intermediates\pre-dexed\release\support-v4-19.1.0-d240967aabb42f911e755bf2717bd8fe215e17a1.jar

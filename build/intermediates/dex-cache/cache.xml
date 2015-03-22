@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android studio\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Android studio\Projects\whetherdata\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-d240967aabb42f911e755bf2717bd8fe215e17a1.jar" />
+    </item>
+
+</items>
